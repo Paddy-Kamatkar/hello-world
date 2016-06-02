@@ -1,3 +1,3 @@
 # hello-world
-Paddy's initial foray in github
+Paddy's initial foray in github. 
 Wow! This tutorial is really great! With nice illustrations and guiding steps. Cool...
